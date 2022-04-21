@@ -3,4 +3,6 @@
     <string moduleConfig="true" name="CodePushDeploymentKey">Uzjv3My9m0gtjyGNrqrCfWPOgv514ksvOXqog</string>
     <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">Uzjv3My9m0gtjyGNrqrCfWPOgv514ksvOXqog</string>
     <string moduleConfig="true" name="reactNativeCodePush_androidServerURL">http://192.168.187.136:3000</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
 </resources>
